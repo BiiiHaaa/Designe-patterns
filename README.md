@@ -1,2 +1,2 @@
 # Designe-patterns
-23 Designe patterns with python
+This folder contain the 23 designe patterns in python language
